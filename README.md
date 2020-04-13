@@ -2,9 +2,9 @@
 #### [`LINK TO THE APP`](http://arunabharjun.com/iiitg/smrtprk/)  
 
 ```
-🗂 API | Contains the API for client app  
-🗂 CLIENT_APP | Contains the ReactJS App files
-🗂 MQTT | Contains the Broker, Publisher & Subscriber for the RaspberryPi
+🗂 API > Contains the API for client app  
+🗂 CLIENT_APP > Contains the ReactJS App files
+🗂 MQTT > Contains the Broker, Publisher & Subscriber for the RaspberryPi
 ```
 
 
