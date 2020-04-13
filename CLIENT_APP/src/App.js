@@ -43,7 +43,12 @@ const The_app = () => {
 								<sub>ABOUT</sub>{' '}
 							</p>
 							<div className='card'>
-								<a class='list-group-item' href={'#'} style={{ color: 'unset' }}>
+								<a
+									class='list-group-item'
+									href={'https://github.com/arunabharjun/IOT-SmartParking-IIITG'}
+									style={{ color: 'unset' }}
+									target='_blank'
+								>
 									<i class='fab fa-github' /> Github
 								</a>
 							</div>
