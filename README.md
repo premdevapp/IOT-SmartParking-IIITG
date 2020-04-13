@@ -29,14 +29,14 @@
 ### THE API
 ```
 1. Written using Express.js on top of Node.js
-2. Connects to databse (MongoDB) and returns the currently updated data in JSON format
+2. Connects to databse (MongoDB) and returns data in JSON format
 ```
 
 ### THE CLIENT APP
 
 ```
 1. Designed and Developed with ReactJS
-2. Uses the API to fetch data in JSON format and present in th in app
+2. Uses the API to fetch data in JSON format and present it in the app
 ```
 
 
