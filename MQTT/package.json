@@ -1,0 +1,39 @@
+{
+  "name": "smart_parking_iiitg",
+  "version": "1.0.0",
+  "description": "A Smart Parking app done as a project in IOT Class Course Using MQTT, NODEJS with EXPRESS_JS, and MONGO_DB ~ Arunabh Arjun",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "smart",
+    "parking",
+    "app",
+    "iot",
+    "iiitg",
+    "arunabh",
+    "arjun",
+    "mqtt",
+    "nodejs",
+    "mongodb",
+    "express",
+    "project"
+  ],
+  "author": "Arunabh Arjun",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "mongodb": "^3.5.5",
+    "mosca": "^2.8.3",
+    "mqtt": "^3.0.0",
+    "node-fetch": "^2.6.0"
+  }
+}
