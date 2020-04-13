@@ -11,5 +11,5 @@
 #### Terminal 2
 ### `node publisher`
 #
-#### Terminal 3 (OPTIONAL, just in case you want to see the subscriber in acton)
+#### Terminal 3
 ### `node sub`
