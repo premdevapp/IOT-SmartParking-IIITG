@@ -12,7 +12,7 @@
 #### Example of a Document
 ```json
 {  
-	"_id" : "ranDomobJectigGeneraTEdbyMOngoDb",
+	"_id" : "ranDomobJectidGeneraTEdbyMOngoDb",
 	"slot_no" : "1",  
 	"place" : "IIITG Academic Building",  
 	"status" : "Available",  
