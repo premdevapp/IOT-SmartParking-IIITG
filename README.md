@@ -1,5 +1,5 @@
 # Smart Parking Project (IOT)
-#### [`LINK TO THE APP`](http://arunabharjun.com/iiitg/smrtprk/)  
+#### [`LINK TO THE WEBAPP`](http://arunabharjun.com/iiitg/smrtprk/)  
 
 ```
 🗂 API > Contains the API for client app  
@@ -29,7 +29,7 @@
 ### THE API
 ```
 1. Written using Express.js on top of Node.js.
-2. Connects to databse (MongoDB) and returns data in JSON format.
+2. Connects to database (MongoDB) and returns data in JSON format.
 ```
 
 ### THE CLIENT APP
