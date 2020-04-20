@@ -41,4 +41,4 @@
 
 
 ### Usage
-> Download or clone the repository and follow instructions in the respective folders.
+> Download or clone the repository and follow instructions (as given in README.md file) in each of the respective folders.
