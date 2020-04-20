@@ -35,7 +35,7 @@
 ### THE CLIENT APP
 
 ```
-1. Designed and Developed with ReactJS.
+1. Designed and Developed with React.js.
 2. Uses the API to fetch data in JSON format and present it in the app.
 ```
 
