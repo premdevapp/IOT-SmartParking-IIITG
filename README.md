@@ -1,5 +1,5 @@
 # Smart Parking Project (IOT)
-#### [`LINK TO THE WEBAPP`](http://arunabharjun.com/iiitg/smrtprk/)  
+#### [`LINK TO THE WEBAPP`](https://smartparking.arunabharjun.now.sh/)  
 
 ```
 🗂 API > Contains the API for client app  
