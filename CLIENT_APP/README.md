@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 #
 ### VISIT :
 
-### [`LINK TO THE APP`](http://arunabharjun.com/iiitg/smrtprk/)
+### [`LINK TO THE APP`](https://smartparking.arunabharjun.now.sh/)
 #
 
 
