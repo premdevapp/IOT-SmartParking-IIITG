@@ -1,6 +1,9 @@
 # Smart Parking Project (IOT)
 #### [`LINK TO THE WEBAPP`](https://smartparking.arunabharjun.now.sh/)  
 
+![SMART PARKING APP][ss]
+[ss]: ./smartparking.png "SMART PARKING APP IIITG"
+
 ```
 🗂 API > Contains the API for client app  
 🗂 CLIENT_APP > Contains the ReactJS App files
