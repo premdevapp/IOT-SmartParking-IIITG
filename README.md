@@ -1,7 +1,7 @@
 # Smart Parking Project (IOT)
 #### [`LINK TO THE WEBAPP`](https://smartparking.arunabharjun.now.sh/)  
 
-![Smart Parking App](./smartparking.png "Smart Parking App")
+[![Smart Parking App](./smartparking.png "Smart Parking App")](https://smartparking.arunabharjun.now.sh/)
 
 ```
 🗂 API > Contains the API for client app  
